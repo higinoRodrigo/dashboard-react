@@ -1,4 +1,4 @@
-const light = {
+export default {
     title: 'light',
 
     colors: {
@@ -15,5 +15,3 @@ const light = {
         warning: '#FF6961',
     },
 };
-
-export default light;
